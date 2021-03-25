@@ -7,7 +7,7 @@ Unzip the file
 
 Copy the 'image' folder in your C: Drive
 
-Go to the image folder; Drag pomodoroX.exe to the taskbar for a quick access to the program
+Go to the C:\image folder; Drag pomodoroX.exe to the taskbar for a quick access to the program
 
 
 Run promodorX.exe 
