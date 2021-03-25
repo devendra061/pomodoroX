@@ -1,7 +1,7 @@
 # pomodoroX
 
 Copy the image folder in your C: Drive
-Go to the image folder; Drag pomodorX.exe to the taskbar for the quick access to the program
+Go to the image folder; Drag pomodoroX.exe to the taskbar for a quick access to the program
 
 Run promodorX.exe 
 	
